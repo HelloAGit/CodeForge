@@ -170,14 +170,6 @@ Evidence: [verification report](docs/verification.md), [original guided workflow
 
 # CodeForge
 
-Nebius Code Forge.
-
-## Deployed URL
-
-https://nebius-codeforge-ai.vercel.app/](https://nebius-codeforge-ai.vercel.app/
-
-# CodeForge
-
 Run the regular checks from the repository root:
 
 ```bash
